@@ -1,0 +1,3 @@
+﻿  SortPack.cpp
+c:\users\mixon\documents\visual studio 2015\projects\sem2zad1sortpack\sem2zad1sortpack\sortpack.cpp(29): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sem2zad1SortPack.vcxproj -> C:\Users\mixon\Documents\Visual Studio 2015\Projects\sem2zad1SortPack\Debug\sem2zad1SortPack.exe
